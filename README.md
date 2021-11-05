@@ -20,5 +20,5 @@ SSH and SFTP client for iOS
  <img src="https://www.up-00.com/i/00176/4gu5yi4fwmgt.jpg" width="30%"></img>
  
  ## Download and Clone
- > Download: Click [Here](https://github.com/0xfff0800/parrot.flo/archive/master.zip) (parrot.flo.zip)
+ > Download: Click [Here](https://github.com/0xfff0800/Parrot.Flo/archive/master.zip) (parrot.flo.zip)
  
